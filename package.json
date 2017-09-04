@@ -1,0 +1,27 @@
+{
+  "name": "cron-nodejs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/grovertb/cron-nodejs-example.git"
+  },
+  "author": "GroverTB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/grovertb/cron-nodejs-example/issues"
+  },
+  "homepage": "https://gitlab.com/grovertb/cron-nodejs-example#README",
+  "dependencies": {
+    "dt.config": "file:config",
+    "later": "1.2.0",
+    "moment": "2.10.6",
+    "nconf": "0.7.2",
+    "request": "2.62.0",
+    "winston": "^2.3.1"
+  }
+}

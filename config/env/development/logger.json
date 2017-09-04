@@ -1,0 +1,7 @@
+{
+  "logger": {
+    "request": "/home/grover/Documents/cron-nodejs-example/log/request.log",
+    "info": "/home/grover/Documents/cron-nodejs-example/log/info.log",
+    "error": "/home/grover/Documents/cron-nodejs-example/log/error.log"
+  }
+}

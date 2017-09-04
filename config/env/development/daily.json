@@ -1,0 +1,12 @@
+{
+  "daily": {
+    "sumaries":{
+      "wsUrl": "http://127.0.0.1:3000/summary",
+      "laterSchedule": "at 00:01"
+    },
+    "ticket":{
+      "wsUrl": "http://127.0.0.1:3000/summary/exchange",
+      "laterSchedule": "at 00:01 on the first day of the month"
+    }
+  }
+}
